@@ -16,7 +16,7 @@ The **⚡ Zorara Executor** is built around one goal: zero friction. Single-clic
 </div>
 
 <div align="center">
-<img alt="Zorara Executor Interface" src="https://raw.githubusercontent.com/laplaplaplas/download/main/assets/evicted_menu_shooter.png" />
+<img alt="Zorara Executor Interface" src="assets/preview.png" />
 </div>
 
 ---
